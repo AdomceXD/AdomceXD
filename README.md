@@ -18,7 +18,7 @@ My name is Adam. I make command line applications
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     Discord: lietuvis_official
-    Tg: https://t.me/Bebula2K
+    Tg: https://t.me/AdomceXD
   </h2>
   <h2>Education:
   <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />
@@ -26,4 +26,4 @@ My name is Adam. I make command line applications
     
   </h2>
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Bebula2K&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AdomceXD&show_icons=true&theme=tokyonight" />
