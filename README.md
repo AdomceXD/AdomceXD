@@ -2,8 +2,8 @@
 
 # Welcome to my profile
 - C++ virgin (maybe some C too) 
-- Mmm debian yum
-- Command line programs mostly (and command line games ;d)
+- Mmm arch linux yum
+- Trying out GUI and game development
 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
